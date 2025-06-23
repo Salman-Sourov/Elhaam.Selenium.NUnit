@@ -102,3 +102,4 @@ C:\ASP .NET\SQA\SeleniumDemo\obj\Debug\net8.0\SeleniumDemo.pdb
 C:\ASP .NET\SQA\SeleniumDemo\obj\Debug\net8.0\SeleniumDemo.genruntimeconfig.cache
 C:\ASP .NET\SQA\SeleniumDemo\obj\Debug\net8.0\ref\SeleniumDemo.dll
 C:\ASP .NET\SQA\SeleniumDemo\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\ASP .NET\SQA\SeleniumDemo\obj\Debug\net8.0\SeleniumDemo.sourcelink.json
